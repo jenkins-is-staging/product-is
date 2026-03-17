@@ -2685,7 +2685,7 @@
 
         <!--Carbon Identity Framework Version-->
 
-        <carbon.identity.framework.version>7.10.84</carbon.identity.framework.version>
+        <carbon.identity.framework.version>7.10.87</carbon.identity.framework.version>
 
         <carbon.identity.framework.version.range>[5.14.67, 8.0.0)</carbon.identity.framework.version.range>
 
@@ -2736,7 +2736,7 @@
 
         <!-- Identity Event Handler Versions -->
         <identity.event.handler.account.lock.version>1.12.0</identity.event.handler.account.lock.version>
-        <identity.event.handler.notification.version>1.12.5</identity.event.handler.notification.version>
+        <identity.event.handler.notification.version>1.12.6</identity.event.handler.notification.version>
 
         <org.wso2.identity.webhook.event.handlers.version>1.2.2</org.wso2.identity.webhook.event.handlers.version>
         <org.wso2.identity.event.publishers.version>1.2.2</org.wso2.identity.event.publishers.version>
@@ -2832,9 +2832,9 @@
         <conditional.authentication.functions.version>1.3.1</conditional.authentication.functions.version>
 
         <!-- Identity Portal Versions -->
-        <identity.apps.console.version>2.105.4</identity.apps.console.version>
+        <identity.apps.console.version>2.105.5</identity.apps.console.version>
         <identity.apps.myaccount.version>2.29.0</identity.apps.myaccount.version>
-        <identity.apps.core.version>3.7.0</identity.apps.core.version>
+        <identity.apps.core.version>3.7.1</identity.apps.core.version>
         <identity.apps.tests.version>1.6.384</identity.apps.tests.version>
 
         <!-- Charon -->
